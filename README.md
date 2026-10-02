@@ -1,4 +1,4 @@
-# Nestl-Sales-Business-Performance-Analytics-Dashboard
+# Nestle-Sales-Business-Performance-Analytics-Dashboard
 Power BI dashboard analyzing Nestlé USA sales, profitability, product performance, regional sales, and customer segmentation from 2023–2026.
 Project Overview:
 The Nestlé Sales & Business Performance Analytics Dashboard is an interactive Power BI project designed to analyze sales performance, profitability, product performance, regional performance, and customer segmentation across the USA.
